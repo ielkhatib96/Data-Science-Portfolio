@@ -1,0 +1,22 @@
+# Secrets — NEVER commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual envs
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
